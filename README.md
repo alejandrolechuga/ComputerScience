@@ -1,5 +1,5 @@
 # ComputerScience
 
 ## Data Structures  
-[Binary Search Trees](data-structures/binarySearchTrees.md)  
+[Binary Search Trees](data-structures/BinarySearchTrees.md)  
 
