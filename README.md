@@ -1,4 +1,6 @@
 # ComputerScience
+## Algorithms 
+[Binary Search](algorithms/BinarySearch.md)
 
 ## Data Structures  
 [Binary Search Trees](data-structures/BinarySearchTrees.md)  
