@@ -1,4 +1,6 @@
-# ComputerScience
+# ComputerScience  
+Personal notes of what I understand about the fundamentals of Computer Science. 
+
 ## Algorithms 
 [Binary Search](algorithms/BinarySearch.md)
 
