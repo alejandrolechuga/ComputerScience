@@ -26,3 +26,8 @@ So in the scenario we were looking for 30 it was going to repeat the steps until
 If the number doens't exist by default we should return -1
 
 
+
+
+sources: 
+https://www.youtube.com/watch?v=j5uXyPJ0Pew&t=645s
+https://www.topcoder.com/community/data-science/data-science-tutorials/binary-search/
