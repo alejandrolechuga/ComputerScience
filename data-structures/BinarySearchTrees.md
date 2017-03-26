@@ -3,3 +3,7 @@ Binary Search Trees consist nodes balanced by their node's value. It contains a 
 
 Simple implementation 
 [Source](binary-search-tree.js) 
+
+
+Check if Binary Tree is balanced
+[Link](http://www.growingwiththeweb.com/2015/11/check-if-a-binary-tree-is-balanced.html)
