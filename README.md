@@ -2,8 +2,9 @@
 Personal notes of what I understand about the fundamentals of Computer Science. 
 
 ## Algorithms 
-[Binary Search](algorithms/BinarySearch.md)
-[BreadthFirst Search](algorithms/BreadthFirst-Search.js)
+[Binary Search](algorithms/BinarySearch.md)  
+[BreadthFirst Search](algorithms/BreadthFirst-Search.js)  
+
 ## Data Structures  
 [Binary Search Trees](data-structures/BinarySearchTrees.md)  
 
